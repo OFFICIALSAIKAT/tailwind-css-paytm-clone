@@ -1,6 +1,6 @@
 # tailwind-css-paytm-clone
 
-## TAILWIND-CSS Paytm clone : [Live-Link](https://tailwind-paytm-clone.netlify.app/)
+## TAILWIND-CSS Paytm clone Project : [Live-Link](https://tailwind-paytm-clone.netlify.app/)
 
 ## Tech Stack:
 
