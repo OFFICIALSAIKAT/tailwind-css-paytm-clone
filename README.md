@@ -2,6 +2,10 @@
 
 ## TAILWIND-CSS Paytm clone : [Live-Link](https://tailwind-paytm-clone.netlify.app/)
 
+## Tech Stack:
+
+**Client:** HTML, TAILWINDCSS
+
 ### Time taken to complete the project: Around 11 hours
 
 ## Screenshots:
